@@ -1,4 +1,4 @@
-let currentLang = "zh";
+let currentLang = "en";
 
 
 /* 語言切換 */
@@ -106,4 +106,5 @@ function initParticles() {
 
 /* 初始化 */
 updateLanguage();
+
 initParticles();
