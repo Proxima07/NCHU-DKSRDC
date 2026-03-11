@@ -106,5 +106,4 @@ function initParticles() {
 
 /* 初始化 */
 updateLanguage();
-
 initParticles();
